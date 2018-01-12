@@ -33,6 +33,11 @@ body b {
 	font: 500 15px/24px Roboto Condensed;
 }
 
+body b.name-hl {
+	font-size: 20px;
+	color: #c96897;
+}
+
 html {
 	min-height: 100%;
 	height: 100%
@@ -1714,6 +1719,7 @@ span.wpcf7-not-valid-tip {
 	font: 32px/40px Great Vibes;
 	color: #757575;
 	z-index: 3;
+	margin: 20px 0 0
 }
 
 .guest_title span {
