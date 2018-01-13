@@ -1161,7 +1161,8 @@ header {
 
 .story_img_plane:after {
 	position: absolute;
-	background: #000 z-index: 4;
+	background: #000;
+	z-index: 4;
 	width: 10%;
 	height: 400px;
 	right: -2px;
